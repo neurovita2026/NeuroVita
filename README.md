@@ -104,14 +104,23 @@ or use the VS Code Live Server extension.
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-Coming soon.
+### Homepage
 
-- Home Page
-- Features
-- About Section
-- Mobile View
+![Homepage](assets/icons/homepage.png)
+
+### Features
+
+![Features](assets/icons/features.png)
+
+### About
+
+![About](assets/icons/about.png)
+
+### Mobile
+
+![Mobile](assets/icons/mobile.png)
 
 ---
 
