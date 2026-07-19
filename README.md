@@ -142,13 +142,15 @@ Contributions, suggestions, and feedback are welcome.
 
 # 📫 Contact
 
-Website
+Thank you for your interest in this project!
 
-https://neurovita.menoon.org
+If you have questions, feedback, or collaboration opportunities, please don't hesitate to get in touch.
 
-Founder
+📱 **WhatsApp:** +961 70 443 540  
+➡️ https://wa.me/96170443540
 
-Jawad
+📧 **Email:** neurovita2026@gmail.com  
+➡️ mailto:neurovita2026@gmail.com
 
 ---
 
